@@ -13,7 +13,9 @@ The project titled Library Management System is Library management software for 
 
 # List of all Tables in Database
 •	Customers (customer_id ,firstname ,lastname ,password ,address)
+
 •	Book (book_title,author ,publisher ,publishyear ,book_id ,status)
+
 •	Issuehistory (book_id ,customer_id ,status)
 
 # Conclusion
